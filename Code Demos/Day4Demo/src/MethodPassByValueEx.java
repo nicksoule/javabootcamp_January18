@@ -11,18 +11,18 @@ public class MethodPassByValueEx {
 		System.out.println("myNum after being passed into the method: " + myNum); // showing that it maintains the
 																					// original state
 
-		myNum = modifyNum(myNum); // example showing it will only change unless reassigned
+		myNum = modifyNum(myNum); // example showing it will only change if reassigned
 		System.out.println(myNum);
-		
+
 		System.out.println(feedModifyNum(15));
 
 	}
 
 	public static int modifyNum(int num) {
-		//int newNum = feedModifyNum(15);
+		// int newNum = feedModifyNum(15);
 		return feedModifyNum(num);
 	}
-	
+
 	public static int feedModifyNum(int num) {
 		return num * 5;
 	}
