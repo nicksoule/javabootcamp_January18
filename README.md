@@ -7,6 +7,8 @@ This GitHub repo is where Antonella and Maurice will share bootcamp resources wi
 
 ### Links
 
+[How Computers Work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
+
 [How to Think Like a Programmer](https://www.huffingtonpost.com/ahsan-zahid/a-few-cups-of-java-thinki_b_5166631.html)
 
 [Java Cheatsheet](http://introcs.cs.princeton.edu/java/11cheatsheet/)
