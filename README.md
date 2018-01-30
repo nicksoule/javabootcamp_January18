@@ -15,6 +15,8 @@ This GitHub repo is where Antonella and Maurice will share bootcamp resources wi
 
 [Here's Another Debugging Tutorial](https://www.eclipse.org/community/eclipse_newsletter/2017/june/article1.php)
 
+[Regex(Regular Expressions)] (https://www.tutorialspoint.com/java/java_regular_expressions.htm)
+
 [Javadocs Documentation](http://www.oracle.com/technetwork/articles/java/index-137868.html)
 
 [Here's Another Javadocs Resource](http://www.codejava.net/ides/eclipse/how-to-generate-javadoc-in-eclipse)
